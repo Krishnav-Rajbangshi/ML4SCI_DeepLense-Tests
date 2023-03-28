@@ -4,7 +4,7 @@
 ### Task:
 Build a model for classifying the images into lenses using PyTorch or Keras.
 
-### Dataset:
+### Dataset Description:
 The Dataset consists of three classes, strong lensing images with no substructure, subhalo substructure, and vortex substructure.
 
 ### Evaluation Metric:
