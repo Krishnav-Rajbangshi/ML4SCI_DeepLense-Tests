@@ -44,4 +44,5 @@ I also used Cosine Annealing with Warm Restarts as my learning rate scheduler. I
 
 ### Results
 On test data I got an AUC Score of 0.9964
-![ROC_Curve](https://github.com/Krishnav-Rajbangshi/ML4SCI-DeepLense-Tests/blob/main/Specific%20Task%202%20-%20Lens%20Finding/SpecificTest-2_LensFinding.ipynb)
+
+![ROC_Curve](https://github.com/Krishnav-Rajbangshi/ML4SCI-DeepLense-Tests/blob/main/Specific%20Task%202%20-%20Lens%20Finding/SpecificTest-2_LensFinding_ROC-Curve.png)
