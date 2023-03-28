@@ -43,3 +43,5 @@ I found the AdamW optimizer to give the best results. It is a variation of the p
 I also used Cosine Annealing with Warm Restarts as my learning rate scheduler. It is a learning rate scheduler that reduces the learning rate of the optimizer at specific intervals during training.
 
 ### Results
+On test data I got an AUC Score of 0.9964
+![ROC_Curve](https://github.com/Krishnav-Rajbangshi/ML4SCI-DeepLense-Tests/blob/main/Specific%20Task%202%20-%20Lens%20Finding/SpecificTest-2_LensFinding.ipynb)
