@@ -46,3 +46,6 @@ I found the AdamW optimizer to give the best results. It is a variation of the p
 I also used Cosine Annealing as my learning rate scheduler. It is a type of learning rate schedule that has the effect of starting with a large learning rate that is relatively rapidly decreased to a minimum value before being increased rapidly again.
 
 ### Results
+On test data I got an AUC Score of 1.00
+
+![ROC CURVE](https://github.com/Krishnav-Rajbangshi/ML4SCI-DeepLense-Tests/blob/main/Specific%20Test%205%20-%20Exploring%20Transformer/ExploringTransformers-ROC_Curve.png)
